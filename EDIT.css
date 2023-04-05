@@ -1,0 +1,10 @@
+.status_beroperasi {
+    background-color: green;
+    color: white;
+}
+.status_cadangan {
+    background-color: yellow;
+}
+.status_rusak {
+    background-color: red;
+}
